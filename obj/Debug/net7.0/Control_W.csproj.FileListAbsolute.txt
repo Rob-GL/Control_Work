@@ -1,0 +1,15 @@
+C:\Users\Роберт\Desktop\GeekBrains\Control_W\Control_W\bin\Debug\net7.0\Control_W.exe
+C:\Users\Роберт\Desktop\GeekBrains\Control_W\Control_W\bin\Debug\net7.0\Control_W.deps.json
+C:\Users\Роберт\Desktop\GeekBrains\Control_W\Control_W\bin\Debug\net7.0\Control_W.runtimeconfig.json
+C:\Users\Роберт\Desktop\GeekBrains\Control_W\Control_W\bin\Debug\net7.0\Control_W.dll
+C:\Users\Роберт\Desktop\GeekBrains\Control_W\Control_W\bin\Debug\net7.0\Control_W.pdb
+C:\Users\Роберт\Desktop\GeekBrains\Control_W\Control_W\obj\Debug\net7.0\Control_W.csproj.AssemblyReference.cache
+C:\Users\Роберт\Desktop\GeekBrains\Control_W\Control_W\obj\Debug\net7.0\Control_W.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Роберт\Desktop\GeekBrains\Control_W\Control_W\obj\Debug\net7.0\Control_W.AssemblyInfoInputs.cache
+C:\Users\Роберт\Desktop\GeekBrains\Control_W\Control_W\obj\Debug\net7.0\Control_W.AssemblyInfo.cs
+C:\Users\Роберт\Desktop\GeekBrains\Control_W\Control_W\obj\Debug\net7.0\Control_W.csproj.CoreCompileInputs.cache
+C:\Users\Роберт\Desktop\GeekBrains\Control_W\Control_W\obj\Debug\net7.0\Control_W.dll
+C:\Users\Роберт\Desktop\GeekBrains\Control_W\Control_W\obj\Debug\net7.0\refint\Control_W.dll
+C:\Users\Роберт\Desktop\GeekBrains\Control_W\Control_W\obj\Debug\net7.0\Control_W.pdb
+C:\Users\Роберт\Desktop\GeekBrains\Control_W\Control_W\obj\Debug\net7.0\Control_W.genruntimeconfig.cache
+C:\Users\Роберт\Desktop\GeekBrains\Control_W\Control_W\obj\Debug\net7.0\ref\Control_W.dll
